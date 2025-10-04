@@ -10,7 +10,7 @@
 
 CW keyer with BT keyboard on ESP32-WROOM-32 module   This is very basic feature set used mainly to test integrating a BT keyboard. It sends out text to a LED and buzzer.  Works with Rii i8+ mini keyboard which uses BLE.  Now testing with Logitech K380 which appears to be a BT Classic peripheral and is causing a crash, likely sometingabout pairing.
 
-Compiled with Arduino IDE 2.3.5
+Compiled with Arduino IDE 2.3.5 with Arduino 3.3.0 support
 
 This merges 2 projects.
 
