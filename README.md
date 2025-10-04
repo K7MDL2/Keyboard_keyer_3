@@ -8,7 +8,7 @@
 [Arduino]: https://img.shields.io/badge/Arduino-blue "Arduino"
 [esp32-WROOM-32]: https://img.shields.io/badge/ESP32--WROOM--32-orange "ESP32-WROOM-32"
 
-CW keyer with BT keyboard on ESP32-WROOM-32 module   This is very basic feature set used mainly to test integrating a BT keyboard. It sends out text to a LED and buzzer.
+CW keyer with BT keyboard on ESP32-WROOM-32 module   This is very basic feature set used mainly to test integrating a BT keyboard. It sends out text to a LED and buzzer.  Works with Rii i8+ mini keyboard which uses BLE.  Now testing with Logitech K380 whcioh appears to be a BT keyboard and ic causing a crash.
 
 Compiled with Arduino IDE 2.3.5
 
